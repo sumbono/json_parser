@@ -1,3 +1,5 @@
+[![ci](https://github.com/sumbono/json_parser/actions/workflows/ci.yml/badge.svg)](https://github.com/sumbono/json_parser/actions/workflows/ci.yml)
+
 # json_parser
 
 A json file parser package to demonstrate python cli module and tool packaging.
