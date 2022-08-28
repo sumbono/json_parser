@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "json_parser"
+version = "0.1.0"
+description = "json file parser"
+authors = ["Sumbono <sumbono102@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+pytest-cov = "^3.0.0"
+
+[build-system]
+build-backend = "setuptools.build_meta"
+requires = ["setuptools>=61.0", "wheel"]
